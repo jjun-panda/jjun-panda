@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi,+I'm+JJUN+👋&font=Redressed&size=24)](https://git.io/typing-svg)
 <img src="https://media.licdn.com/dms/image/C5616AQGUN0UDZh07lg/profile-displaybackgroundimage-shrink_350_1400/0/1625247293999?e=1688601600&v=beta&t=4Yz0hSkNaMpCQCS56kWmZCp7MH6dsFX1eYiGOGZlBRk">
-<!-- #### ”Simplicity is about subtracting the obvious, and adding the meaningful” - John Maeda -->
-<!-- <br/> -->
+<!-- #### ”Simplicity is about subtracting the obvious, and adding the meaningful” - John Maeda
+<br/> -->
 <p>
   <samp>
   🧑‍💻 Hi there! I'm full stack Designer skilled in UI/UX and WEB<br/>
@@ -23,7 +23,7 @@
 </p>
 <br/>
 
-<hr/>
+<!-- <hr/>
 <p style="display: flex; gap: 8px">
   <a href="/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -36,7 +36,7 @@
 </p>
 <p>
   <a href="/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+</p> -->
 
 
 
