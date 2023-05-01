@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=24&pause=1000&color=7143FF&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&width=435&lines=Hi%2C+I'm+JJUN+%F0%9F%91%8B;Full+stack+Designer+%F0%9F%98%9D)](https://git.io/typing-svg)
 <img src="https://media.licdn.com/dms/image/C5616AQGUN0UDZh07lg/profile-displaybackgroundimage-shrink_350_1400/0/1625247293999?e=1688601600&v=beta&t=4Yz0hSkNaMpCQCS56kWmZCp7MH6dsFX1eYiGOGZlBRk">
 <!-- #### ”Simplicity is about subtracting the obvious, and adding the meaningful” - John Maeda
 <br/> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=24&pause=1000&color=7143FF&width=460&lines=Hi%2C+I'm+JJUN+and+Full+stack+Designer+%F0%9F%91%8B+)](https://git.io/typing-svg)
 <p>
   <samp>
   🧑‍💻 Hi there! I'm Full-stack Designer skilled in UI/UX and WEB<br/>
