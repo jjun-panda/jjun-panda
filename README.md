@@ -22,7 +22,10 @@
   </samp>
 </p>
 <br/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjun-panda&count_bg=%237143FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
 <!-- <hr/>
 <p style="display: flex; gap: 8px">
   <a href="/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
