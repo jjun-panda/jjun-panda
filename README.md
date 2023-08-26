@@ -1,4 +1,4 @@
-<img src="http://jjuns-c.com/jjun_gitbub.png">
+<img src="jjun_img.png">
 <!-- #### ”Simplicity is about subtracting the obvious, and adding the meaningful” - John Maeda
 <br/> -->
 
