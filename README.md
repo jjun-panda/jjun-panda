@@ -10,7 +10,7 @@
 <p>
   <samp>
   🧑‍💻 Hi there! I'm Full-stack Designer skilled in UI/UX and WEB<br/>
-  🔥 I have experience 6 years of Design and 3 years of Web development<br/>
+  🔥 I have experience 7 years of Design and 3 years of Web development<br/>
   🙌 I hope to design and develop every beautiful things<br/>
   </samp>
 </p>
