@@ -9,16 +9,10 @@
 </p>
 <p>
   <samp>
-  🧑‍💻 Hi there! I'm Full-stack Designer skilled in UI/UX and WEB<br/>
-  🔥 I have experience 7 years of Design and 3 years of Web development<br/>
-  🙌 I hope to design and develop every beautiful things<br/>
-  </samp>
-</p>
-<p>
-  <samp>
-  Graphic / Editing / Contents designer and UX design researcher with IoT<br/>
-  Research field : IoT / UX & Interaction / Public design<br/>
-  Master of Design / Computer science & SW
+    🧑‍💻 Hi there! I'm Full-Stack Designer with expertise in UI/UX and web development.<br/>
+    🔥 With 8 years of experience in design and 3 years in web development, I bring a deep understanding of creating and implementing user-centered solutions.<br/>
+    🔍 My research interests include IoT, UX & Interaction Design, and Public Design. I am passionate about exploring how technology and design intersect to enhance user experiences.<br/>
+    🙌 I am dedicated to designing and developing beautiful, functional, and impactful solutions across various platforms.
   </samp>
 </p>
 <br/>
