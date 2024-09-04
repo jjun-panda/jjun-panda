@@ -9,10 +9,10 @@
 </p>
 <p>
   <samp>
-    🧑‍💻 Hi there! I'm Full-Stack Designer with expertise in UI/UX and web development.<br/>
-    🔥 With 8 years of experience in design and 3 years in web development, I bring a deep understanding of creating and implementing user-centered solutions.<br/>
-    🔍 My research interests include IoT, UX & Interaction Design, and Public Design. I am passionate about exploring how technology and design intersect to enhance user experiences.<br/>
-    🙌 I am dedicated to designing and developing beautiful, functional, and impactful solutions across various platforms.
+    🧑‍💻 Hi there! I'm Full-Stack Designer with expertise in UI/UX and web development<br/>
+    🔥 I have experience 8 years of Design and 3 years in web development<br/>
+    🔍 My research interests include IoT, UX & Interaction and Public Design<br/>
+    🙌 I hope to design and develop every beautiful things<br/>
   </samp>
 </p>
 <br/>
